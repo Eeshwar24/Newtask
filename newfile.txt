@@ -1,1 +1,6 @@
 this is text file
+another line
+new demo
+aws instance connected and cloned with git
+commited and pushed intlo git
+
